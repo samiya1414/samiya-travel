@@ -5,19 +5,23 @@ h1{
     font-size: 35px;
     color:orange;
 }
+h2{
+    font-size: 25px;
+}
 .oriyo{
     color:purple;
 
 }
-section{
+.flexable-container{
     display: flex;
 }
 .half-width{
     width: 50%;
     padding: 5%;
+    
 }
 .half-width img{
-    width: 110%
+    width: 60%;
 }
 .click{
     background-color: rgb(46, 139, 86);
@@ -27,6 +31,31 @@ section{
 }
 .mind{
     color:mediumvioletred;
+}
+.join{
+    color:purple;
+}
+.travel{
+    color:red;
+}
+.must-try{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radious: 10px;
+
+    box-shadow: 10px 10px 40px salmon;
+}
+#new-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(green, cyan);
+    border-image-slice: 1;
+}
+#try-again{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, pink);
+    border-image-slice: 1;
 }
 
 
