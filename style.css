@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 35px;
+    color:orange;
+}
+.oriyo{
+    color:purple;
+
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.click{
+    background-color: rgb(46, 139, 86);
+    border: 3px solid goldenrod;
+    border-radius: 10px;
+    margin: 10px 100px;
+}
