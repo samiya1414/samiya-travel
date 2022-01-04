@@ -17,7 +17,7 @@ section{
     padding: 5%;
 }
 .half-width img{
-    width: 80%;
+    width: 110%
 }
 .click{
     background-color: rgb(46, 139, 86);
@@ -25,3 +25,12 @@ section{
     border-radius: 10px;
     margin: 10px 100px;
 }
+.mind{
+    color:mediumvioletred;
+}
+
+
+
+
+
+
